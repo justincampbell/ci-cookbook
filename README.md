@@ -1,13 +1,3 @@
-# ci-cookbook cookbook
+# ci-cookbook
 
-# Requirements
-
-# Usage
-
-# Attributes
-
-# Recipes
-
-# Author
-
-Author:: YOUR_NAME (<YOUR_EMAIL>)
+Sets up Jenkins with Chef
